@@ -1,0 +1,23 @@
+{
+  "name": "scraping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node node_modules/cors-anywhere/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tango025/scraping-contact-information.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tango025/scraping-contact-information/issues"
+  },
+  "homepage": "https://github.com/tango025/scraping-contact-information#readme",
+  "dependencies": {
+    "cors-anywhere": "^0.4.1"
+  }
+}
